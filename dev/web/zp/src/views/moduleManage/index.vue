@@ -2,8 +2,8 @@
  * @Author: liuyr
  * 招聘管理页面
  * @Date: 2019-12-22 16:49:20 
- * @Last Modified by: liuyr
- * @Last Modified time: 2019-12-23 20:52:03
+ * @Last Modified by: zhough
+ * @Last Modified time: 2019-12-29 10:47:35
  */
 <template>
   <div id="moduleManage">
